@@ -13,7 +13,7 @@ tile.wirelessLever.name=무선 레버
 tile.soundBox.name=Sound Box
 tile.carpentryBench.name=[WIP] Carpentry Bench
 tile.lapisLamp.name=라피스 램프
-tile.dyeingMachine.name=Dyeing Machine
+tile.dyeingMachine.name=염색 기기
 tile.spiritRod.name=Spirit Rod
 tile.imbuingStation.name=Imbuing Station
 
@@ -50,7 +50,7 @@ item.dropFilter.name=Drop Filter
 item.dropFilterVoiding.name=Voiding Drop Filter
 item.enderLetter.name=Ender Letter
 item.spectreKey.name=Spectre Key
-item.soundRecorder.name=Sound Recorder
+item.soundRecorder.name=녹음기
 item.spectreSword.name=Spectre Sword
 item.spectreHelmet.name=Spectre Helmet
 item.spectreChestplate.name=Spectre Chestplate
@@ -69,7 +69,7 @@ item.ectoplasm.name=Ectoplasm
 item.spectreIron.name=Spectre Iron
 item.transformationCore.name=Transformation Core
 item.demorpher.name=Demorpher
-item.error.name=Invalid Item
+item.error.name=잘못된 아이템
 
 item.imbue.poison.name=Flask of Poison
 item.imbue.experience.name=Flask of Experience
